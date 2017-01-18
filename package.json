@@ -1,0 +1,19 @@
+{
+    "name": "iron_test_bot",
+    "version": "1.0.0",
+    "description": "Slack bot learning",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "bot",
+        "slack"
+    ],
+    "author": "Ironjanowar",
+    "license": "ISC",
+    "dependencies": {
+        "slackbots": "^1.0.2",
+	"dotenv": "^2.0.0"
+    }
+}
