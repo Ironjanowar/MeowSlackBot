@@ -1,0 +1,8 @@
+First Slack Bot!
+
+Done thanks to:
+  - https://github.com/mishk0/slack-bot-api :: Slack API wrapper.
+  - https://api.slack.com :: Slack API documentation, specially [[https://api.slack.com/events/message.channels][this]].
+  - https://scotch.io/tutorials/building-a-slack-bot-with-node-js-and-chuck-norris-super-powers :: This
+       tutorial helped me to understand Slack Bots although I didn't
+       get his project structure.
