@@ -24,9 +24,6 @@ function onStart() {
 
     // define channel, where bot exist. You can adjust it there https://my.slack.com/services
     bot.postMessageToChannel('general', 'Start Meow!');
-
-    // define existing username instead of 'user_name'
-    bot.postMessageToUser('ironjanowar', 'Start Meow!');
 };
 
 // Message Handler
