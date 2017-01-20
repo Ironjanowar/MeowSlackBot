@@ -1,14 +1,15 @@
 {
-    "name": "iron_test_bot",
+    "name": "MeowSlackBot",
     "version": "1.0.0",
     "description": "Slack bot learning",
-    "main": "index.js",
+    "main": "bot.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [
         "bot",
-        "slack"
+        "slack",
+	"meow"
     ],
     "author": "Ironjanowar",
     "license": "ISC",
