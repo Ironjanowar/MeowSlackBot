@@ -1,5 +1,3 @@
-// Here we are going to run the bot
-
 'use strict';
 
 var SlackBot = require('slackbots');
