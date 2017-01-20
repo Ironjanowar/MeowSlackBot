@@ -6,3 +6,5 @@
   - https://scotch.io/tutorials/building-a-slack-bot-with-node-js-and-chuck-norris-super-powers :: This
        tutorial helped me to understand Slack Bots although I didn't
        get his project structure.
+* TO DO
+  - Check if listener crashes when a new user is added. NOT TESTED
