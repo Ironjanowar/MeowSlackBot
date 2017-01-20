@@ -21,7 +21,7 @@ bot.on('message', onMessage);
 // Start handler
 function onStart() {
     console.log("Runnning...");
-    
+
     // define channel, where bot exist. You can adjust it there https://my.slack.com/services
     bot.postMessageToChannel('general', 'Start Meow!');
 };
@@ -40,9 +40,9 @@ function onMessage(message) {
 function listener(message) {
     // If there is no message to display return
     if (!message.text || !message.user) return;
-    
+
     var sneak = "";
-    
+
     // If it's a user who's talking
     if (isDirectMessage(message)) {
         sneak = getUserNameById(message.user);
